@@ -2,61 +2,113 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public float Speed;
-    public float RotSpeed;
-    private float Rotation;
-    public float Gravity;
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    // Referência ao CharacterController da Unity
+    private CharacterController controller;
 
-    Vector3 MoveDirection; //Vector3 = aos pontos de movimentação, x y z
-    CharacterController controller;
-    //Animator anim;
+    // Velocidade de movimento
+    public float speed = 5f;
+
+    // Força do pulo
+    public float jumpForce = 8f;
+
+    // Gravidade aplicada ao personagem
+    public float gravity = -9.81f;
+
+    // Velocidade vertical (queda, pulo, etc.)
+    private float verticalVelocity;
+
+    // Referência ao Animator (para animações)
+    private Animator anim;
+
+    // Referência à câmera (para rotação com o mouse)
+    public Transform cameraTransform;
+
+    // Sensibilidade do mouse
+    public float mouseSensitivity = 2f;
+
+    // Acumulador para rotação vertical (câmera)
+    private float xRotation = 0f;
 
 
-    // Start is called before the first frame update
     void Start()
     {
-        //cada componente que adicionar no jogo, tem q estar aqui para referenciar ele
+        // Pegando os componentes necessários na cena
         controller = GetComponent<CharacterController>();
+        anim = GetComponent<Animator>();
+
+        // Bloqueia e esconde o cursor no centro da tela
+        Cursor.lockState = CursorLockMode.Locked;
     }
 
-    // Update is called once per frame
     void Update()
     {
+
         Move();
-    }
-
-    void Move()
-    {
-        if (controller.isGrounded)//controler = CharacterController, o player
+        // ----------- PULO ---------------------
+        if (controller.isGrounded && verticalVelocity < 0)
         {
-
-            if (Input.GetKey(KeyCode.W))
-            {
-                MoveDirection = Vector3.forward * Speed; //MoveDirection = Vector3, logo x y z
-
-            }
-            if (Input.GetKeyUp(KeyCode.W))
-            {
-                MoveDirection = Vector3.zero;
-                //transform.Translate(Vector3.back * Velocity * Time.deltaTime);
-            }
-            if (Input.GetKey(KeyCode.S))
-            {
-                MoveDirection = Vector3.back * Speed; //MoveDirection = Vector3, logo x y z
-
-            }
-            if (Input.GetKeyUp(KeyCode.S))
-            {
-                MoveDirection = Vector3.zero;
-                //transform.Translate(Vector3.back * Velocity * Time.deltaTime);
-            }
+            verticalVelocity = -2f; // "cola" no chão
         }
-        Rotation += Input.GetAxis("Horizontal") * RotSpeed * Time.deltaTime; //rot é rotação, Time.deltaTime é para nao perder a velocidade
-        transform.eulerAngles = new Vector3(0, Rotation, 0);
 
-        MoveDirection.y -= Gravity * Time.deltaTime;//atualiza a gravidade conforme ao terreno
-        MoveDirection = transform.TransformDirection(MoveDirection);
-        controller.Move(MoveDirection * Time.deltaTime);
+        if (Input.GetKeyDown(KeyCode.Space) && controller.isGrounded)
+        {
+            verticalVelocity = jumpForce;
+
+            // Ativa animação de pulo (trigger)
+            anim.SetTrigger("pular");
+        }
+        else
+        {
+            // Ativa animação de pulo (trigger)
+            anim.ResetTrigger("pular");
+            
+        }
+
+
+
+        // Aplica gravidade
+        verticalVelocity += gravity * Time.deltaTime;
+        Vector3 verticalMove = Vector3.up * verticalVelocity;
+        controller.Move(verticalMove * Time.deltaTime);
+
+        
+
+        // ----------- ROTACIONA O PLAYER COM O MOUSE (CÂMERA) ----------------
+        float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity;
+        float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity;
+
+        // Roda o player horizontalmente
+        transform.Rotate(Vector3.up * mouseX);
+
+        // Roda a câmera verticalmente (limitada para não girar demais)
+        xRotation -= mouseY;
+        xRotation = Mathf.Clamp(xRotation, -80f, 80f);
+        cameraTransform.localRotation = Quaternion.Euler(xRotation, 0f, 0f);
     }
 
+    public void Move()
+    {
+        // ----------- MOVIMENTAÇÃO ----------------
+        float moveX = Input.GetAxis("Horizontal"); // A/D
+        float moveZ = Input.GetAxis("Vertical");   // W/S
+
+        Vector3 move = transform.right * moveX + transform.forward * moveZ;
+
+        // ----------- ANIMAÇÃO DE WALK/IDLE -------------
+        // Se estiver se movendo, ativa a animação de corrida (trigger bool)
+        if (move != Vector3.zero && controller.isGrounded)
+        {
+            controller.Move(speed * Time.deltaTime * move); // Aplica movimentação
+            anim.SetBool("caminhar", true);
+        }
+        else
+        {
+            anim.SetBool("caminhar", false);
+        }
+
+    }
+
+
+    
 }
