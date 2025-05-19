@@ -187,6 +187,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -261,6 +265,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 10d25393721ede84facb77671a13a7a4, type: 3}
       propertyPath: m_Name
       value: Faixa5
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 10d25393721ede84facb77671a13a7a4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -345,6 +353,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Pallet_01 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -401,6 +413,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 329369e77b30e5c4d9c682e9e42e88e4, type: 3}
       propertyPath: m_Name
       value: Prop_TrashBag_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 329369e77b30e5c4d9c682e9e42e88e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -480,6 +496,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -557,6 +577,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804c9c6df5d056e4da0e9b1081a86e39, type: 3}
       propertyPath: m_Name
       value: SM_Scrap_Metal_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804c9c6df5d056e4da0e9b1081a86e39, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -636,6 +660,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -701,6 +729,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
       propertyPath: m_Name
       value: Env_Motel_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -775,6 +807,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Pallet_01
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -847,6 +883,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
       propertyPath: m_Name
       value: SM_Pallet_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -994,6 +1034,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: QuestPoster
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 84739c92683838b4aa7bd9b0d404e572, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1099,6 +1143,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1164,6 +1212,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
       propertyPath: m_Name
       value: Env_Motel_01 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1253,6 +1305,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1309,6 +1365,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 329369e77b30e5c4d9c682e9e42e88e4, type: 3}
       propertyPath: m_Name
       value: Prop_TrashBag_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 329369e77b30e5c4d9c682e9e42e88e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1376,6 +1436,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 329369e77b30e5c4d9c682e9e42e88e4, type: 3}
       propertyPath: m_Name
       value: Prop_TrashBag_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 329369e77b30e5c4d9c682e9e42e88e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1451,6 +1515,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Red Building (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 089b6301030973645867c7728986c867, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1524,6 +1592,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1580,6 +1652,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
       propertyPath: m_Name
       value: Prop_StreetSign_Speed_30 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1653,6 +1729,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
       propertyPath: m_Name
       value: Blue Building (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1742,6 +1822,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1814,6 +1898,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
       propertyPath: m_Name
       value: Blue Building (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1888,6 +1976,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1948,6 +2040,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
       propertyPath: m_Name
       value: Env_Motel_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2022,6 +2118,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2095,6 +2195,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2167,6 +2271,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
       propertyPath: m_Name
       value: Blue Building (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2251,6 +2359,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Pallet_01 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2324,6 +2436,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2389,6 +2505,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
       propertyPath: m_Name
       value: Canto3
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2500,6 +2620,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2598,6 +2722,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CannedFood_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81724618f79c76d4d820c499762eaf44, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2680,6 +2808,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
       propertyPath: m_Name
       value: Blue Building (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2790,6 +2922,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
       propertyPath: m_Name
       value: Corner Building (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2927,6 +3063,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: QuestLatinha
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: acb4d377b9057cf4ebf16ee8fc6d034c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2999,6 +3139,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804c9c6df5d056e4da0e9b1081a86e39, type: 3}
       propertyPath: m_Name
       value: SM_Scrap_Metal_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804c9c6df5d056e4da0e9b1081a86e39, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3074,6 +3218,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Red Building (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 089b6301030973645867c7728986c867, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3139,6 +3287,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Faixa3
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 10d25393721ede84facb77671a13a7a4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3199,6 +3351,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
       propertyPath: m_Name
       value: Canto4
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3273,6 +3429,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 089b6301030973645867c7728986c867, type: 3}
       propertyPath: m_Name
       value: Red Building (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 089b6301030973645867c7728986c867, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3378,6 +3538,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
       propertyPath: m_Name
       value: Corner Building (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3549,6 +3713,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3653,6 +3821,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
       propertyPath: m_Name
       value: Corner Building (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3764,6 +3936,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3874,6 +4050,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3944,6 +4124,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Faixa2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 10d25393721ede84facb77671a13a7a4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4010,6 +4194,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
       propertyPath: m_Name
       value: Prop_StreetSign_Speed_30
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4083,6 +4271,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 675f9e2a8ff33444cbc498895b039dd3, type: 3}
       propertyPath: m_Name
       value: SM_Scrap_Metal_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 675f9e2a8ff33444cbc498895b039dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4365,6 +4557,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Red Building (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 089b6301030973645867c7728986c867, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4437,6 +4633,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
       propertyPath: m_Name
       value: Blue Building (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4511,6 +4711,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4584,6 +4788,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Pallet_03 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a4e716dc033017f4b8f3fe9be3dd65cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4656,6 +4864,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 675f9e2a8ff33444cbc498895b039dd3, type: 3}
       propertyPath: m_Name
       value: SM_Scrap_Metal_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 675f9e2a8ff33444cbc498895b039dd3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4735,6 +4947,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4807,6 +5023,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
       propertyPath: m_Name
       value: SM_Pallet_01 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4913,6 +5133,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5001,6 +5225,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5065,6 +5293,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
       propertyPath: m_Name
       value: RuaComercio (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5143,6 +5375,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
       propertyPath: m_Name
       value: SM_Pallet_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5249,6 +5485,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5322,6 +5562,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5382,6 +5626,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
       propertyPath: m_Name
       value: Canto1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5452,6 +5700,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 10d25393721ede84facb77671a13a7a4, type: 3}
       propertyPath: m_Name
       value: Faixa6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 10d25393721ede84facb77671a13a7a4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5567,6 +5819,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
       propertyPath: m_Name
       value: Corner Building (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5753,6 +6009,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Scrap_Metal_03 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804c9c6df5d056e4da0e9b1081a86e39, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5878,6 +6138,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5953,6 +6217,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
       propertyPath: m_Name
       value: QuestGrama
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6032,6 +6300,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6104,6 +6376,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
       propertyPath: m_Name
       value: SM_Pallet_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6287,6 +6563,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6347,6 +6627,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
       propertyPath: m_Name
       value: Env_Motel_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6417,6 +6701,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 941e7a788bfefee49855b5561d019daa, type: 3}
       propertyPath: m_Name
       value: Prop_TrashCan_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 941e7a788bfefee49855b5561d019daa, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6490,6 +6778,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
       propertyPath: m_Name
       value: SM_Pallet_01 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6606,6 +6898,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6711,6 +7007,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6794,103 +7094,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Pallet_03 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a4e716dc033017f4b8f3fe9be3dd65cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a4e716dc033017f4b8f3fe9be3dd65cc, type: 3}
---- !u!1 &963194225
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 963194228}
-  - component: {fileID: 963194227}
-  - component: {fileID: 963194226}
-  m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!81 &963194226
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 963194225}
-  m_Enabled: 1
---- !u!20 &963194227
-Camera:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 963194225}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
-  m_projectionMatrixMode: 1
-  m_GateFitMode: 2
-  m_FOVAxisMode: 0
-  m_Iso: 200
-  m_ShutterSpeed: 0.005
-  m_Aperture: 16
-  m_FocusDistance: 10
-  m_FocalLength: 50
-  m_BladeCount: 5
-  m_Curvature: {x: 2, y: 11}
-  m_BarrelClipping: 0.25
-  m_Anamorphism: 0
-  m_SensorSize: {x: 36, y: 24}
-  m_LensShift: {x: 0, y: 0}
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 0
-  orthographic size: 5
-  m_Depth: -1
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 1
-  m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
-  m_ForceIntoRT: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
---- !u!4 &963194228
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 963194225}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &967225613 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 329369e77b30e5c4d9c682e9e42e88e4, type: 3}
@@ -6956,6 +7168,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
       propertyPath: m_Name
       value: Env_Motel_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7029,6 +7245,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
       propertyPath: m_Name
       value: Blue Building (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7108,6 +7328,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7169,6 +7393,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Env_Motel_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7225,6 +7453,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
       propertyPath: m_Name
       value: Prop_StreetSign_Speed_30 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7331,6 +7563,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7409,6 +7645,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Pallet_03 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a4e716dc033017f4b8f3fe9be3dd65cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7474,6 +7714,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
       propertyPath: m_Name
       value: Env_Motel_01 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7550,6 +7794,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
       propertyPath: m_Name
       value: Canto2
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7628,6 +7876,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
       propertyPath: m_Name
       value: SM_Pallet_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7754,6 +8006,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7827,6 +8083,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7899,6 +8159,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
       propertyPath: m_Name
       value: Blue Building (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7977,6 +8241,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6724caf277831854fa8c7e4bcd500aa1, type: 3}
       propertyPath: m_Name
       value: Tent_A_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6724caf277831854fa8c7e4bcd500aa1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8087,6 +8355,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
       propertyPath: m_Name
       value: Corner Building (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8244,6 +8516,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8322,6 +8598,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Pallet_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8394,6 +8674,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804c9c6df5d056e4da0e9b1081a86e39, type: 3}
       propertyPath: m_Name
       value: SM_Scrap_Metal_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804c9c6df5d056e4da0e9b1081a86e39, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8473,6 +8757,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CannedFood_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81724618f79c76d4d820c499762eaf44, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8550,6 +8838,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
       propertyPath: m_Name
       value: Blue Building (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8656,6 +8948,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8729,6 +9025,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8795,6 +9095,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Assembled_Tent_A
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f94c2828f003a00409630826d3f03b5c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8856,6 +9160,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b858118c219cf7f40bb10b5024b81cfd, type: 3}
       propertyPath: m_Name
       value: QuestIndefinida
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b858118c219cf7f40bb10b5024b81cfd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8925,6 +9233,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 089b6301030973645867c7728986c867, type: 3}
       propertyPath: m_Name
       value: Red Building (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 089b6301030973645867c7728986c867, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8997,6 +9309,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
       propertyPath: m_Name
       value: Prop_StreetSign_Speed_30 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9078,6 +9394,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Faixa1
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 10d25393721ede84facb77671a13a7a4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9150,6 +9470,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
       propertyPath: m_Name
       value: SM_Pallet_01 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9244,6 +9568,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9318,6 +9646,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Red Building (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 089b6301030973645867c7728986c867, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9386,6 +9718,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 089b6301030973645867c7728986c867, type: 3}
       propertyPath: m_Name
       value: Red Building (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 089b6301030973645867c7728986c867, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9466,6 +9802,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 10d25393721ede84facb77671a13a7a4, type: 3}
       propertyPath: m_Name
       value: Faixa8
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 10d25393721ede84facb77671a13a7a4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9550,6 +9890,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9606,6 +9950,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 329369e77b30e5c4d9c682e9e42e88e4, type: 3}
       propertyPath: m_Name
       value: Prop_TrashBag_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 329369e77b30e5c4d9c682e9e42e88e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9705,6 +10053,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Pallet_01 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9787,6 +10139,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
       propertyPath: m_Name
       value: SM_Pallet_01 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9876,6 +10232,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9932,6 +10292,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 329369e77b30e5c4d9c682e9e42e88e4, type: 3}
       propertyPath: m_Name
       value: Prop_TrashBag_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 329369e77b30e5c4d9c682e9e42e88e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10005,6 +10369,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a4e716dc033017f4b8f3fe9be3dd65cc, type: 3}
       propertyPath: m_Name
       value: SM_Pallet_03 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a4e716dc033017f4b8f3fe9be3dd65cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10111,6 +10479,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10189,6 +10561,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Pallet_03 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a4e716dc033017f4b8f3fe9be3dd65cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10258,6 +10634,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
       propertyPath: m_Name
       value: RuaComercio
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10341,6 +10721,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
       propertyPath: m_Name
       value: SM_Pallet_01 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10430,6 +10814,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10518,6 +10906,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10590,6 +10982,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
       propertyPath: m_Name
       value: Blue Building (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10664,6 +11060,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Pallet_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a4e716dc033017f4b8f3fe9be3dd65cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10728,6 +11128,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
       propertyPath: m_Name
       value: RuaComercio (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10839,6 +11243,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10944,6 +11352,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11000,6 +11412,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
       propertyPath: m_Name
       value: Prop_StreetSign_Speed_30 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11062,6 +11478,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
       propertyPath: m_Name
       value: Prop_StreetSign_Speed_30 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11168,6 +11588,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11251,6 +11675,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11324,6 +11752,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 81724618f79c76d4d820c499762eaf44, type: 3}
       propertyPath: m_Name
       value: CannedFood_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81724618f79c76d4d820c499762eaf44, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11430,6 +11862,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11535,6 +11971,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11607,6 +12047,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a4e716dc033017f4b8f3fe9be3dd65cc, type: 3}
       propertyPath: m_Name
       value: SM_Pallet_03 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a4e716dc033017f4b8f3fe9be3dd65cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11691,6 +12135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Pallet_03
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a4e716dc033017f4b8f3fe9be3dd65cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11760,6 +12208,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
       propertyPath: m_Name
       value: RuaComercio (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 826bcfeb16d117f4f825964ba4710656, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11864,6 +12316,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11941,6 +12397,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
       propertyPath: m_Name
       value: Blue Building (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12022,6 +12482,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
       propertyPath: m_Name
       value: Env_Motel_01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12111,6 +12575,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12183,6 +12651,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
       propertyPath: m_Name
       value: Blue Building (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12272,6 +12744,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12349,6 +12825,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
       propertyPath: m_Name
       value: SM_Pallet_01 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12455,6 +12935,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12524,6 +13008,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Wall_01
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e5cd99ce43cd3e846ac83be46b01e725, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12580,6 +13068,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
       propertyPath: m_Name
       value: Prop_StreetSign_Speed_30 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12654,6 +13146,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12724,6 +13220,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Barrel_Open_01
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8cc7fba1aa2e29b4cad954fe3783ea89, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12792,6 +13292,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 089b6301030973645867c7728986c867, type: 3}
       propertyPath: m_Name
       value: Red Building (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 089b6301030973645867c7728986c867, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12908,6 +13412,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12986,6 +13494,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13042,6 +13554,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
       propertyPath: m_Name
       value: Prop_StreetSign_Speed_30 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 638d64aab35c34e449a3e85989002223, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13121,6 +13637,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13186,6 +13706,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Faixa7
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 10d25393721ede84facb77671a13a7a4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13250,6 +13774,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 10d25393721ede84facb77671a13a7a4, type: 3}
       propertyPath: m_Name
       value: Faixa4
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 10d25393721ede84facb77671a13a7a4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13361,6 +13889,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13422,6 +13954,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Env_Motel_01 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13482,6 +14018,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
       propertyPath: m_Name
       value: Env_Motel_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13561,6 +14101,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13633,6 +14177,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
       propertyPath: m_Name
       value: Blue Building (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13739,6 +14287,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13812,6 +14364,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13884,6 +14440,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
       propertyPath: m_Name
       value: SM_Pallet_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 23812c7450364f348b94df111a8a6213, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13995,6 +14555,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14105,6 +14669,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14188,6 +14756,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14253,6 +14825,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
       propertyPath: m_Name
       value: Env_Motel_01 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2c46d4de4e95db541917edeeeba6539e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14331,6 +14907,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
       propertyPath: m_Name
       value: Blue Building (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14452,6 +15032,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner Building (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fb79225bd9ff604ca05cb2c65f0d9dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14526,6 +15110,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Red Building
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 089b6301030973645867c7728986c867, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14599,6 +15187,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Building (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c5dac8fbbe43d343a11a2d08629e7e7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14613,7 +15205,6 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 963194228}
   - {fileID: 705507995}
   - {fileID: 851266647}
   - {fileID: 458061366}
