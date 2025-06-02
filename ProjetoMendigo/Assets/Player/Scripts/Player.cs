@@ -32,7 +32,6 @@ public class Player : MonoBehaviour
     // Variável para controlar o estado de pulo
     private bool isJumping = false;
 
-
     void Start()
     {
         // Pegando os componentes necessários na cena
@@ -78,13 +77,13 @@ public class Player : MonoBehaviour
         float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity;
         float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity;
 
-        // Roda o player horizontalmente
+        // Roda o player horizontalmente (gira no eixo Y)
         transform.Rotate(Vector3.up * mouseX);
 
         // Roda a câmera verticalmente (limitada para não girar demais)
         xRotation -= mouseY;
-        xRotation = Mathf.Clamp(xRotation, -80f, 80f);
-        cameraTransform.localRotation = Quaternion.Euler(xRotation, 80f, 80f);
+        xRotation = Mathf.Clamp(xRotation, -15f, 20f);
+        cameraTransform.localRotation = Quaternion.Euler(xRotation, 0f, 0f);
     }
 
     public void Move()
