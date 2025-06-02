@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     // Referência ao CharacterController da Unity
     private CharacterController controller;
 
@@ -30,6 +29,8 @@ public class Player : MonoBehaviour
     // Acumulador para rotação vertical (câmera)
     private float xRotation = 0f;
 
+    // Variável para controlar o estado de pulo
+    private bool isJumping = false;
 
     void Start()
     {
@@ -43,47 +44,45 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-
         Move();
+
         // ----------- PULO ---------------------
         if (controller.isGrounded && verticalVelocity < 0)
         {
             verticalVelocity = -2f; // "cola" no chão
+
+            // Se o personagem está no chão e estava pulando, desativa a animação de pulo
+            if (isJumping)
+            {
+                anim.ResetTrigger("pular"); // Reseta o trigger de pulo
+                isJumping = false;  // Atualiza o estado para "não está pulando"
+            }
         }
 
         if (Input.GetKeyDown(KeyCode.Space) && controller.isGrounded)
         {
             verticalVelocity = jumpForce;
+            isJumping = true;  // Atualiza o estado para "está pulando"
 
             // Ativa animação de pulo (trigger)
             anim.SetTrigger("pular");
         }
-        else
-        {
-            // Ativa animação de pulo (trigger)
-            anim.ResetTrigger("pular");
-            
-        }
-
-
 
         // Aplica gravidade
         verticalVelocity += gravity * Time.deltaTime;
         Vector3 verticalMove = Vector3.up * verticalVelocity;
         controller.Move(verticalMove * Time.deltaTime);
 
-        
-
         // ----------- ROTACIONA O PLAYER COM O MOUSE (CÂMERA) ----------------
         float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity;
         float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity;
 
-        // Roda o player horizontalmente
+        // Roda o player horizontalmente (gira no eixo Y)
         transform.Rotate(Vector3.up * mouseX);
 
         // Roda a câmera verticalmente (limitada para não girar demais)
         xRotation -= mouseY;
-        xRotation = Mathf.Clamp(xRotation, -80f, 80f);
+        xRotation = Mathf.Clamp(xRotation, -15f, 20f);
         cameraTransform.localRotation = Quaternion.Euler(xRotation, 0f, 0f);
     }
 
@@ -106,9 +105,5 @@ public class Player : MonoBehaviour
         {
             anim.SetBool("caminhar", false);
         }
-
     }
-
-
-    
 }
