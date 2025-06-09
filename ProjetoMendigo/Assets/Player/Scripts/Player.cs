@@ -32,6 +32,12 @@ public class Player : MonoBehaviour
     // Variável para controlar o estado de pulo
     private bool isJumping = false;
 
+    // ----- INÍCIO DA PARTE NOVA: Câmeras para cutscene e player -----
+    [Header("Câmeras Cutscene / Player")]
+    public GameObject cameraCutscene;  // câmera da Timeline / cutscene
+    public GameObject cameraPlayer;    // câmera principal do player
+    // ----- FIM DA PARTE NOVA -----
+
     void Start()
     {
         // Pegando os componentes necessários na cena
@@ -40,6 +46,14 @@ public class Player : MonoBehaviour
 
         // Bloqueia e esconde o cursor no centro da tela
         Cursor.lockState = CursorLockMode.Locked;
+
+        // ----- INÍCIO DA PARTE NOVA: Configura câmeras no começo -----
+        if (cameraCutscene != null && cameraPlayer != null)
+        {
+            cameraCutscene.SetActive(true);
+            cameraPlayer.SetActive(false);
+        }
+        // ----- FIM DA PARTE NOVA -----
     }
 
     void Update()
@@ -106,4 +120,15 @@ public class Player : MonoBehaviour
             anim.SetBool("caminhar", false);
         }
     }
+
+    // ----- INÍCIO DA PARTE NOVA: Método chamado pelo Signal Receiver -----
+    public void OnCutsceneEnd()
+    {
+        if (cameraCutscene != null && cameraPlayer != null)
+        {
+            cameraCutscene.SetActive(false);
+            cameraPlayer.SetActive(true);
+        }
+    }
+    // ----- FIM DA PARTE NOVA -----
 }

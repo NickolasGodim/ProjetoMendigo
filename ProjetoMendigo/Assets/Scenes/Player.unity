@@ -471,13 +471,14 @@ GameObject:
   - component: {fileID: 1375838383}
   - component: {fileID: 1375838382}
   - component: {fileID: 1375838381}
+  - component: {fileID: 1375838386}
   m_Layer: 0
   m_Name: Cena1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!95 &1375838381
 Animator:
   serializedVersion: 7
@@ -521,6 +522,8 @@ PlayableDirector:
     value: {fileID: 1930511940}
   - key: {fileID: 5634646945352588262, guid: bc1a3bcc3a682f2479a0e1d9b4d35eb3, type: 2}
     value: {fileID: 1909109972}
+  - key: {fileID: 3503878629623680232, guid: bc1a3bcc3a682f2479a0e1d9b4d35eb3, type: 2}
+    value: {fileID: 1375838386}
   m_ExposedReferences:
     m_References: []
 --- !u!81 &1375838383
@@ -597,6 +600,36 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 157.45, y: 251.353, z: 535.529}
+--- !u!114 &1375838386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375838380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Events:
+    m_Signals:
+    - {fileID: 11400000, guid: 35fdad967c719d9498829f9be9b202ac, type: 2}
+    m_Events:
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1909109976}
+          m_TargetAssemblyTypeName: Player, Assembly-CSharp
+          m_MethodName: OnCutsceneEnd
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
 --- !u!1001 &1891683554
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -807,6 +840,8 @@ MonoBehaviour:
   gravity: -9.81
   cameraTransform: {fileID: 963194228}
   mouseSensitivity: 2
+  cameraCutscene: {fileID: 1375838380}
+  cameraPlayer: {fileID: 963194225}
 --- !u!4 &1909109977 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b8c8bcd445320424a84a6aefe109965d, type: 3}
