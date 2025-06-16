@@ -32,6 +32,9 @@ public class Player : MonoBehaviour
     // Variável para controlar o estado de pulo
     private bool isJumping = false;
 
+    private float normalSpeed = 5f;
+    private float runSpeed = 9f;
+
     // ----- INÍCIO DA PARTE NOVA: Câmeras para cutscene e player -----
     [Header("Câmeras Cutscene / Player")]
     public GameObject cameraCutscene;  // câmera da Timeline / cutscene
@@ -54,6 +57,7 @@ public class Player : MonoBehaviour
             cameraPlayer.SetActive(false);
         }
         // ----- FIM DA PARTE NOVA -----
+
     }
 
     void Update()
@@ -98,6 +102,8 @@ public class Player : MonoBehaviour
         xRotation -= mouseY;
         xRotation = Mathf.Clamp(xRotation, -15f, 20f);
         cameraTransform.localRotation = Quaternion.Euler(xRotation, 0f, 0f);
+
+
     }
 
     public void Move()
@@ -106,10 +112,19 @@ public class Player : MonoBehaviour
         float moveX = Input.GetAxis("Horizontal"); // A/D
         float moveZ = Input.GetAxis("Vertical");   // W/S
 
+        // Ajusta a velocidade ao segurar Shift
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            speed = runSpeed;  // runSpeed já declarado no seu código (8f)
+        }
+        else
+        {
+            speed = normalSpeed;  // normalSpeed já declarado no seu código (5f)
+        }
+
         Vector3 move = transform.right * moveX + transform.forward * moveZ;
 
         // ----------- ANIMAÇÃO DE WALK/IDLE -------------
-        // Se estiver se movendo, ativa a animação de corrida (trigger bool)
         if (move != Vector3.zero && controller.isGrounded)
         {
             controller.Move(speed * Time.deltaTime * move); // Aplica movimentação
