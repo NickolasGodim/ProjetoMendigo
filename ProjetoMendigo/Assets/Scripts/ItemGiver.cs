@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class ItemGiver : MonoBehaviour
 {
-    public int itemsToGive = 18; 
+    public int itemsToGive = 18; // já que são 18 itens
 
     private void OnTriggerEnter(Collider other)
     {
@@ -11,7 +11,7 @@ public class ItemGiver : MonoBehaviour
         {
             player.AddItems(itemsToGive);
             Debug.Log("Player ganhou 18 itens!");
-            gameObject.SetActive(false); 
+            gameObject.SetActive(false); // só dá uma vez
         }
     }
 }
